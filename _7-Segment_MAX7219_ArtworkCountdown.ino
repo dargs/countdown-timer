@@ -1,7 +1,7 @@
 /* 
  dargs 20180325
  
- ardunio v1.6.4
+ arduino v1.6.4
  Tested on Uno board.
 
  Countdown clock to sync with artwork playing off brightsign player. To let visitors know when the artwork is due to start again. 
